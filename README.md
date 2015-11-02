@@ -1,2 +1,2 @@
 # meteor-package-test
-Just a simple test package for dispatchme
+Just a simple test package for dispatchme great!
